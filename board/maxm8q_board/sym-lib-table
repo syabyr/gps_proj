@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name maxm8q_board-rescue)(type Legacy)(uri ${KIPRJMOD}/maxm8q_board-rescue.lib)(options "")(descr ""))
+)
